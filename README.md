@@ -19,3 +19,8 @@ Research Questions
 Hypothesis
 
 1.More cancellations occur when prices are higher. 2.The majority of clients are coming from offline travel agents to make their reservations.
+
+
+Conclusion
+
+The analysis of hotel booking data employing hypothesis testing and graphical representations yields valuable insights into booking trends. Through hypothesis testing, significant differences in booking patterns between weekdays and weekends are identified, suggesting the need for tailored pricing and marketing strategies.Factors influencing cancellation rates are pinpointed, advocating for targeted interventions to mitigate revenue loss. Overall, the integrated approach of hypothesis testing and graphical representations offers comprehensive insights into booking dynamics, enabling hotels to optimize revenue and maintain competitiveness in the hospitality industry.
